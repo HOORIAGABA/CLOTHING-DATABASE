@@ -30,6 +30,7 @@ Developer Side:
 
 
 3.	Specifications:
+
 As we have a finite knowledge about Python concepts which we studied in this Semester. So, we tried our best applying all that knowledge, and our team experience to get our Project done.
 
 We made code for the Clothing Management which makes the Work-Process easy to use:
